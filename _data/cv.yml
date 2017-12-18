@@ -2,6 +2,7 @@ experience:
   - company: mReady
     position: Android Developer
     date: June 2014 &mdash; Present
+    location: Bucharest, Romania
     summary: 
       <ul>
       <li>Developed and contributed to over 15 native Android applications, both independently and as part of a team</li>
@@ -20,21 +21,26 @@ teaching:
   - company: DevAcademy
     position: Android Trainer
     date: October 2017 &mdash; Present
+    location: Bucharest, Romania
     summary: Vix homero corrumpit te, pro moderatius deterruisset interpretaris et. Idque falli nec eu. Nec id inani impedit, sit probo deseruisse eu, doming molestiae assentior per an. Pericula tractatos iudicabit eu nec, mei ne maiorum praesent. Mel dicat pericula et.
 
   - company: DevTalks for Juniors
     position: Android Workshop Instructor
     date: November 2017
+    location: Bucharest, Romania
     title: Building lists the right way in Android
     summary: The purpose of this workshop was to demonstrate to the participants the ways of displaying lists in Android, with a focus on the RecyclerView component and why it’s a good practice to use it. Topics covered include discussions over advantages and disadvantages of different methods of displaying lists, adapters, recycling views, the view holder pattern, layout managers and more. Almost 30 people attended and the feedback received was very positive.
 
   - company: DevTalks for Juniors
     position: Android Workshop Instructor
     date: November 2016
+    location: Bucharest, Romania
     title: A modern approach to using RESTful APIs in Android applications
     summary: The goal of this one-day workshop was to provide insight into modern and efficient ways of connecting Android applications to servers by making HTTP requests to RESTful APIs. We started with a base project where we replaced the HttpUrlConnection client with OkHttp, the manual deserialisation with GSON, and then we added Retrofit. 30 young programmers were present at the workshop, from the total of 62 which registered.
 
 education:
-  - degree: Bachelor's Degree in Computer Science
+  - degree: Bachelor's Degree
+    field: Computer Science
     uni: Polytehnic University of Bucharest
+    location: Bucharest, Romania
     date: 2011 &mdash; 2015
