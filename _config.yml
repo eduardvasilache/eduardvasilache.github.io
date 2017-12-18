@@ -1,0 +1,23 @@
+# Site settings
+title: "Eduard Vasilache"
+description: "Resume"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_name:                    "Eduard Vasilache"
+resume_title:                   "Android Developer"
+resume_contact_email:           "eduard.vasilache@gmail.com"
+resume_contact_telephone:       "+40 723 033 823"
+resume_contact_address:         "Bucharest, Romania"
+resume_header_contact_info:     "Bucharest, Romania | +40 723 033 823 | eduard.vasilache@gmail.com"
+resume_header_intro:            "<p>Vix homero corrumpit te, pro moderatius deterruisset interpretaris et. Idque falli nec eu. Nec id inani impedit, sit probo deseruisse eu, doming molestiae assentior per an. Pericula tractatos iudicabit eu nec, mei ne maiorum praesent. Mel dicat pericula et.</p>"
+
+# Social links
+resume_social_links:
+  resume_github_url:            "https://github.com/eduardvasilache"
+  resume_linkedin_url:          "https://www.linkedin.com/in/eduardvasilache"

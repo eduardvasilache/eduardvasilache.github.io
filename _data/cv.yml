@@ -1,0 +1,40 @@
+experience:
+  - company: mReady
+    position: Android Developer
+    date: June 2014 &mdash; Present
+    summary: 
+      <ul class="resume-item-list">
+      <li>Developed and contributed to over 15 native Android applications, both independently and as part of a team</li>
+      <li>Responsible for almost two years with developing the Android applications for one of Switzerland's biggest Internet TV providers</li>
+      <li>Took part in all application development lifecycle phases, from idea to publishing and maintaining</li>
+      <li>Analysed, defined and estimated tasks, working in an Agile environment with JIRA as a project management tool</li>
+      <li>Worked closely with designers and other developers, as well as with managers and stakeholders</li>
+      <li>Supervised and mentored interns and other less-experienced colleagues by giving code reviews, presentations and offering technical support</li>
+      <li>Contributed to internal libraries and published some of them as open-source projects, being in charge with organizing the team and doing the actual development</li>
+      <li>Responsible for recruiting new team members by examining resumes, contacting applicants, holding interviews, writing technical challenges and checking submissions</li>
+      <li>Always stayed up-to-date and used the latest tools and technologies of the trade, such as Kotlin, RxJava, OkHttp, Retrofit, GSON, Glide, Picasso, ExoPlayer</li>
+      <li>Used a MVVM-like architectural pattern, data binding and dependency injection</li>
+      </ul>
+
+teaching:
+  - company: DevAcademy
+    position: Android Trainer
+    date: October 2017 &mdash; Present
+    summary: Vix homero corrumpit te, pro moderatius deterruisset interpretaris et. Idque falli nec eu. Nec id inani impedit, sit probo deseruisse eu, doming molestiae assentior per an. Pericula tractatos iudicabit eu nec, mei ne maiorum praesent. Mel dicat pericula et.
+
+  - company: DevTalks for Juniors
+    position: Android Workshop Instructor
+    date: November 2017
+    title: Building lists the right way in Android
+    summary: The purpose of this workshop was to demonstrate to the participants the ways of displaying lists in Android, with a focus on the RecyclerView component and why it’s a good practice to use it. Topics covered include discussions over advantages and disadvantages of different methods of displaying lists, adapters, recycling views, the view holder pattern, layout managers and more. Almost 30 people attended and the feedback received was very positive.
+
+  - company: DevTalks for Juniors
+    position: Android Workshop Instructor
+    date: November 2016
+    title: A modern approach to using RESTful APIs in Android applications
+    summary: The goal of this one-day workshop was to provide insight into modern and efficient ways of connecting Android applications to servers by making HTTP requests to RESTful APIs. We started with a base project where we replaced the HttpUrlConnection client with OkHttp, the manual deserialisation with GSON, and then we added Retrofit. 30 young programmers were present at the workshop, from the total of 62 which registered.
+
+education:
+  - degree: Bachelor's Degree in Computer Science
+    uni: Polytehnic University of Bucharest
+    date: 2011 &mdash; 2015
