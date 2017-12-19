@@ -1,3 +1,13 @@
+personal:
+  name: Eduard Vasilache
+  address: Bucharest, Romania
+
+links:
+  linkedin: https://www.linkedin.com/in/eduardvasilache
+  github: https://github.com/eduardvasilache
+
+intro: <p>Vix homero corrumpit te, pro moderatius deterruisset interpretaris et. Idque falli nec eu. Nec id inani impedit, sit probo deseruisse eu, doming molestiae assentior per an. Pericula tractatos iudicabit eu nec, mei ne maiorum praesent. Mel dicat pericula et.</p>
+
 experience:
   - company: mReady
     position: Android Developer
@@ -7,7 +17,7 @@ experience:
       <ul>
       <li>Developed and contributed to over 15 native Android applications, both independently and as part of a team</li>
       <li>Responsible for almost two years with developing the Android applications for one of Switzerland's biggest Internet TV providers</li>
-      <li>Took part in all application development lifecycle phases, from idea to publishing and maintaining</li>
+      <li>Took part in all application development lifecycle phases, from idea to publishing and maintenance</li>
       <li>Analysed, defined and estimated tasks, working in an Agile environment with JIRA as a project management tool</li>
       <li>Worked closely with designers and other developers, as well as with managers and stakeholders</li>
       <li>Supervised and mentored interns and other less-experienced colleagues by giving code reviews, presentations and offering technical support</li>

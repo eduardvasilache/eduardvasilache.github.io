@@ -1,21 +1,15 @@
-{% if site.resume_social_links %}
 <ul class="icon-links">
-
-  <!-- GitHub -->
-
-  {% if site.resume_social_links.resume_github_url %}
-  <li class="icon-link-item">
-    <a href="{{ site.resume_social_links.resume_github_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-github.html %}</a>
-  </li>
-  {% endif %}
 
   <!-- LinkedIn -->
 
-  {% if site.resume_social_links.resume_linkedin_url %}
   <li class="icon-link-item">
-    <a href="{{ site.resume_social_links.resume_linkedin_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-linkedin.html %}</a>
+    <a href="{{ site.data.cv.links.linkedin }}" class="icon-link" itemprop="sameAs">{% include icons/icon-linkedin.html %}</a>
   </li>
-  {% endif %}
+
+  <!-- GitHub -->
+
+  <li class="icon-link-item">
+    <a href="{{ site.data.cv.links.github }}" class="icon-link" itemprop="sameAs">{% include icons/icon-github.html %}</a>
+  </li>
 
 </ul>
-{% endif %}

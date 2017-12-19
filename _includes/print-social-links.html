@@ -1,17 +1,15 @@
 <ul>
 
-  <!-- GitHub -->
-
-  {% if site.resume_social_links.resume_github_url %}
-  <li>
-    <strong>Github</strong>: {{ site.resume_social_links.resume_github_url }}</li>
-  {% endif %}
-
   <!-- LinkedIn -->
 
-  {% if site.resume_social_links.resume_linkedin_url %}
   <li>
-    <strong>LinkedIn</strong>: {{ site.resume_social_links.resume_linkedin_url }}</li>
-  {% endif %}
+    <strong>LinkedIn</strong>: {{ site.data.cv.links.linkedin }}
+  </li>
+
+  <!-- GitHub -->
+
+  <li>
+    <strong>Github</strong>: {{ site.data.cv.links.linkedin }}
+  </li>
 
 </ul>
