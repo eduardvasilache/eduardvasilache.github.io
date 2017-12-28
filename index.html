@@ -2,26 +2,28 @@
 ---
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 {% include head.html %}
 
 <body>
 
-    <div class="wrapper" itemscope itemtype="http://schema.org/Person">
+    <div class="wrapper">
+
+        <!-- Header -->
 
         <header class="page-header">
 
-            <img src="images/avatar.jpg" alt="Avatar" class="avatar no-print" itemprop="image">
+            <img src="images/avatar.jpg" alt="Avatar" class="avatar">
 
-            <h1 class="header-name" itemprop="name">{{ site.data.cv.personal.name }}</h1>
+            <h1 class="header-name">{{ site.data.resume.personal.name }}</h1>
 
-            <div class="title-bar no-print">
-                {% include icon-links.html %}
+            <div class="title-bar">
+                {% include links.html %}
             </div>
 
-            <div class="executive-summary" itemprop="description">
-                {{ site.data.cv.intro }}
+            <div class="executive-summary">
+                {{ site.data.resume.summary }}
             </div>
 
         </header>
@@ -34,11 +36,11 @@
                 <h2>Work Experience</h2>
             </header>
 
-            {% for item in site.data.cv.experience %}
-            <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-                <h3 class="resume-item-title" itemprop="name">{{ item.position }}</h3>
-                <h4 class="resume-item-date" itemprop="description">{{ item.company }} &bull; {{ item.location }} &bull; {{ item.date }} </h4>
-                <p class="resume-item-copy">{{ item.summary }}</p>
+            {% for item in site.data.resume.experience %}
+            <div class="resume-item">
+                <h3 class="resume-item-title">{{ item.position }}</h3>
+                <h4 class="resume-item-subtitle">{{ item.company }} &bull; {{ item.location }} &bull; {{ item.date }} </h4>
+                <p class="resume-item-summary">{{ item.summary }}</p>
             </div>
             {% endfor %}
 
@@ -52,11 +54,29 @@
                 <h2>Teaching Experience</h2>
             </header>
 
-            {% for item in site.data.cv.teaching %}
-            <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-                <h3 class="resume-item-title" itemprop="name">{{ item.position }}</h3>
-                <h4 class="resume-item-date" itemprop="description">{{ item.company }} &bull; {{ item.location }} &bull; {{ item.date }} </h4>
-                <p class="resume-item-copy">{{ item.summary }}</p>
+            {% for item in site.data.resume.teaching %}
+            <div class="resume-item">
+                <h3 class="resume-item-title">{{ item.position }}</h3>
+                <h4 class="resume-item-subtitle">{{ item.company }} &bull; {{ item.location }} &bull; {{ item.date }} </h4>
+                <h4 class="resume-item-subtitle">{{ item.title }} </h4>
+                <p class="resume-item-summary">{{ item.summary }}</p>
+            </div>
+            {% endfor %}
+
+        </section>
+
+        <!-- Personal Projects -->
+
+        <section class="content-section">
+
+            <header class="section-header">
+                <h2>Personal Projects</h2>
+            </header>
+
+            {% for item in site.data.resume.projects %}
+            <div class="resume-item">
+                <h3 class="resume-item-title">{{ item.name }}</h3>
+                <p class="resume-item-summary">{{ item.summary }}</p>
             </div>
             {% endfor %}
 
@@ -70,44 +90,12 @@
                 <h2>Education</h2>
             </header>
 
-            {% for item in site.data.cv.education %}
-            <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-                <h3 class="resume-item-title" itemprop="name">{{ item.degree }}</h3>
-                <h4 class="resume-item-date group" itemprop="description">{{ item.uni }} &bull; {{ item.field }} &bull; {{ item.date }}</h4>
+            {% for item in site.data.resume.education %}
+            <div class="resume-item">
+                <h3 class="resume-item-title">{{ item.degree }}</h3>
+                <h4 class="resume-item-subtitle">{{ item.uni }} &bull; {{ item.field }} &bull; {{ item.date }}</h4>
             </div>
             {% endfor %}
-
-        </section>
-
-        <!-- Skills -->
-        <!--
-        <section class="content-section">
-
-            <header class="section-header">
-                <h2>Skills</h2>
-            </header>
-
-            {% for item in site.data.cv.skills %}
-            <div class="resume-item">
-                <h4 class="resume-item-details">{{ item.skill }}</h4>
-                <p class="resume-item-copy">{{ item.description }}</p>
-            </div>
-            {% endfor %}
-            
-        </section>
-        -->
-
-        <!-- Print Social Links -->
-
-        <section class="content-section print-only">
-
-            <header class="section-header">
-                <h2>Social Links</h2>
-            </header>
-
-            <div class="resume-item">
-                {% include print-social-links.html %}
-            </div>
 
         </section>
 
