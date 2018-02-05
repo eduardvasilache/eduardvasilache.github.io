@@ -15,16 +15,15 @@ experience:
     location: Bucharest, Romania
     summary: 
       <ul>
-      <li>Developed and contributed to over 15 native Android applications, both independently and as part of a team</li>
-      <li>Currently leading the development of the Android applications for one of Switzerland's top Internet TV providers, a position that I have for more than a year</li>
-      <li>Took part in all application development lifecycle phases, from idea to publishing and maintenance</li>
-      <li>Analysed, defined and estimated tasks, working in an Agile environment with JIRA as a project management tool</li>
-      <li>Worked closely with designers and other developers, as well as with managers and stakeholders</li>
-      <li>Supervised and mentored interns and other less-experienced colleagues by giving code reviews, presentations and offering technical support</li>
-      <li>Contributed to internal libraries and published some of them as open-source projects, being in charge with organizing the team and doing the actual development</li>
-      <li>Responsible for recruiting new team members by examining resumes, contacting applicants, holding interviews, writing technical challenges and checking submissions</li>
-      <li>Always stayed up-to-date and used the latest tools and technologies of the trade, such as Kotlin, RxJava, OkHttp, Retrofit, GSON, Glide, Picasso, ExoPlayer</li>
-      <li>Used a MVVM-like architectural pattern, data binding and dependency injection</li>
+      <li>Developed and contributed to over 15 native Android applications of different types and complexities</li>
+      <li>Leading the development of the Android applications for one of Switzerland's top Internet Television providers</li>
+      <li>Taking part in all application development lifecycle phases, from idea to publishing and maintenance</li>
+      <li>Working closely with designers and with other developers, as well as with managers and stakeholders</li>
+      <li>Analysing, defining and estimating tasks, working in an Agile environment with JIRA as a project management tool</li>
+      <li>Supervising and mentoring interns and other less-experienced colleagues by conducting code reviews, giving presentations and offering technical support</li>
+      <li>Helping with the recruitment of new team members by examining resumes, contacting applicants, holding interviews, writing technical challenges and checking submissions</li>
+      <li>Contributing to internal libraries; published some of them as open-source projects</li>
+      <li>Using the latest tools and technologies of the trade, such as Kotlin, RxJava, OkHttp, Retrofit, GSON, Glide, Picasso, Conductor, ExoPlayer, a MVVM architectural pattern, data binding and dependency injection</li>
       </ul>
 
 teaching:
