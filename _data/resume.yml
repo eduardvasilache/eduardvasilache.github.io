@@ -1,37 +1,44 @@
 personal:
   name: Eduard Vasilache
-  address: Bucharest, Romania
 
 links:
   linkedin: https://www.linkedin.com/in/eduardvasilache
   github: https://github.com/eduardvasilache
 
-summary: I am a curious developer with more than three years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
+summary: I am a curious developer with more than four years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
 
 experience:
+  - company: Entwicklungspark AG
+    position: Lead Mobile & TV Developer
+    date: August 2018 &mdash; Present
+    location: Zürich, Switzerland
+    summary:
+      <ul>
+      <li>More info coming soon</li>
+      </ul>
   - company: mReady
     position: Android Developer
-    date: June 2014 &mdash; Present
+    date: June 2014 &mdash; July 2018
     location: Bucharest, Romania
     summary: 
       <ul>
       <li>Developed and contributed to over 15 native Android applications of different types and complexities</li>
-      <li>Leading the development of the Android applications for one of Switzerland's top Internet Television providers</li>
-      <li>Taking part in all application development lifecycle phases, from idea to publishing and maintenance</li>
-      <li>Working closely with designers and with other developers, as well as with managers and stakeholders</li>
-      <li>Analysing, defining and estimating tasks, working in an Agile environment with JIRA as a project management tool</li>
-      <li>Supervising and mentoring interns and other less-experienced colleagues by conducting code reviews, giving presentations and offering technical support</li>
-      <li>Helping with the recruitment of new team members by examining resumes, contacting applicants, holding interviews, writing technical challenges and checking submissions</li>
-      <li>Contributing to internal libraries; published some of them as open-source projects</li>
-      <li>Using the latest tools and technologies of the trade, such as Kotlin, RxJava, OkHttp, Retrofit, GSON, Glide, Picasso, Conductor, ExoPlayer, a MVVM architectural pattern, data binding and dependency injection</li>
+      <li>Led the development of the Android applications for one of Switzerland's top Internet Television providers</li>
+      <li>Took part in all application development lifecycle phases, from idea to publishing and maintenance</li>
+      <li>Worked closely with designers and with other developers, as well as with managers and stakeholders</li>
+      <li>Analysed, defined and estimated tasks, working in an Agile environment with JIRA as a project management tool</li>
+      <li>Supervised and mentored interns and other less-experienced colleagues by conducting code reviews, giving presentations and offering technical support</li>
+      <li>Helped with the recruitment of new team members by examining resumes, contacting applicants, holding interviews, writing technical challenges and checking submissions</li>
+      <li>Contributed to internal libraries; published some of them as open-source projects</li>
+      <li>Used the latest tools and technologies of the trade, such as Kotlin, RxJava, OkHttp, Retrofit, GSON, Glide, Picasso, Conductor, ExoPlayer, a MVVM architectural pattern, data binding and dependency injection</li>
       </ul>
 
 teaching:
   - company: DevAcademy
     position: Lead Android Trainer
-    date: October 2017 &mdash; Present
+    date: October 2017 &mdash; May 2018
     location: Bucharest, Romania
-    summary: Seventeen participants get together every Tuesday and Thursday, from 20:00 to 22:00, to learn how to build Android mobile applications. I am currently leading the course and, together with my colleague, we give hands-on technical talks and work together with the participants on different applications. Before the course started, I wrote technical challenges, analyzed and interviewed candidates, checked their submissions and organized everything.
+    summary: Seventeen participants got together every Tuesday and Thursday, from 20:00 to 22:00, to learn how to build Android mobile applications. I led the course and, together with my colleague, we gave hands-on technical talks and worked together with the participants on different applications. Before the course started, I wrote technical challenges, analyzed and interviewed candidates, checked their submissions and organized everything.
 
   - company: DevTalks for Juniors
     position: Android Workshop Instructor
