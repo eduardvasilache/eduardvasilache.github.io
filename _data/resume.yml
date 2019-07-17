@@ -5,16 +5,24 @@ links:
   linkedin: https://www.linkedin.com/in/eduardvasilache
   github: https://github.com/eduardvasilache
 
-summary: I am a curious developer with more than four years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
+summary: I am a curious developer with five years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
 
 experience:
   - company: Entwicklungspark AG
-    position: Lead Mobile & TV Developer
+    position: Lead Android Developer
     date: August 2018 &mdash; Present
     location: Zürich, Switzerland
     summary:
       <ul>
-      <li>More info coming soon</li>
+      <li>Continuing the collaboration with Wilmaa, one of the top Swiss Internet TV providers</li>
+      <li>Designing the architecture and developing the native mobile and TV applications for Android devices</li>
+      <li>Managed a team of external developers, who were developing the iOS and tvOS applications</li>
+      <li>Acted as product owner of the TV applications - wrote tickets, decided priorities, managed sprints, checked results of the external developers</li>
+      <li>Challenging the design of the user interface and user experience, providing feedback and alternative solutions</li>
+      <li>Documenting various parts of the projects for a better overview of how the applications behave</li>
+      <li>Writing test cases for a more organized and complete manual testing process</li>
+      <li>Implementing a continuous integration system (using CircleCI and Fastlane) and writing automated unit tests</li>
+      <li>Working on the iOS and tvOS applications when needed</li>
       </ul>
   - company: mReady
     position: Android Developer
