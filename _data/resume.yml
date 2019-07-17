@@ -62,10 +62,6 @@ teaching:
     title: A modern approach to using RESTful APIs in Android applications
     summary: The goal of this one-day workshop was to provide insight into modern and efficient ways of connecting Android applications to servers by making HTTP requests to RESTful APIs. We started with a base project where we replaced the HttpUrlConnection client with OkHttp, the manual deserialisation with GSON, and then we added Retrofit. 30 young programmers were present at the workshop, from the total of 62 which registered.
 
-projects:
-  - name: Frinble
-    summary: An upcoming mobile application that aims to facilitate finding the perfect time to go out with your friends. I’m currently working on the backend, which is based on Vert.x and written in Kotlin. Next in line are the Android and Android Wear applications, followed by the iOS and watchOS versions.
-
 education:
   - degree: Bachelor's Degree
     field: Computer Science
