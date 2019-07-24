@@ -15,13 +15,13 @@ experience:
     summary:
       <ul>
       <li>Continuing the collaboration with Wilmaa, one of the top Swiss Internet TV providers</li>
-      <li>Designing the architecture and developing the native mobile and TV applications for Android devices</li>
-      <li>Managed a team of external developers, who were developing the iOS and tvOS applications</li>
-      <li>Acted as product owner of the TV applications - wrote tickets, decided priorities, managed sprints, checked results of the external developers</li>
+      <li>Designing the architecture and developing the native applications for Android and Android TV devices</li>
+      <li>Managed and offered support to a team of external developers, who were developing the iOS and tvOS applications</li>
+      <li>Acted as the product owner of the TV applications for a limited time - wrote tickets, decided priorities, managed sprints, checked the results of the external developers</li>
       <li>Challenging the design of the user interface and user experience, providing feedback and alternative solutions</li>
-      <li>Documenting various parts of the projects for a better overview of how the applications behave</li>
-      <li>Writing test cases for a more organized and complete manual testing process</li>
-      <li>Implementing a continuous integration system (using CircleCI and Fastlane) and writing automated unit tests</li>
+      <li>Creating complex flow charts and other documents for a better overview of how the applications should behave</li>
+      <li>Creating numerous test cases for a more organized and complete manual testing process</li>
+      <li>Implementing a continuous integration system (using Fastlane and CircleCI) and writing automated unit tests</li>
       <li>Working on the iOS and tvOS applications when needed</li>
       </ul>
   - company: mReady
