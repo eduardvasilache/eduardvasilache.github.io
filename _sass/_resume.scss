@@ -1,7 +1,7 @@
 .page-header {
     padding: 1.5rem 0;
     .avatar {
-        width: 95px;
+        width: 150px;
         max-width: 100%;
         overflow: hidden;
         @include border-radius(100px);
@@ -9,7 +9,7 @@
         display: block;
     }
     .header-name {
-        font-size: 3rem;
+        font-size: 2.5rem;
         font-weight: 900;
         text-align: center;
         letter-spacing: -.15rem;
