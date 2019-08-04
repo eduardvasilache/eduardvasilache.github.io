@@ -66,6 +66,10 @@
 .content-section {
     .resume-item {
         margin-bottom: 2rem;
+        ul {
+            list-style-position: outside;
+            padding-left: 1rem;
+        }
     }
     .resume-item-title {
         margin: 0 0 .75rem;
