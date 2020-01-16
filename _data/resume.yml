@@ -5,24 +5,25 @@ links:
   linkedin: https://www.linkedin.com/in/eduardvasilache
   github: https://github.com/eduardvasilache
 
-summary: I am a curious developer with five years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
+summary: I am a curious developer with more than five years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
 
 experience:
-  - company: Entwicklungspark AG
+  - company: Entwicklungspark AG / Wilmaa AG
     position: Lead Android Developer
     date: August 2018 &mdash; Present
     location: Zürich, Switzerland
     summary:
       <ul>
-      <li>Continuing the collaboration with Wilmaa, one of the top Swiss Internet TV providers</li>
+      <li>Continuing the collaboration with Wilmaa, a well known Swiss Internet TV provider</li>
       <li>Designing the architecture and developing the native applications for Android and Android TV devices</li>
-      <li>Managed and offered support to a team of external developers, who were developing the iOS and tvOS applications</li>
+      <li>Guided and managed a team of external developers, who were developing the iOS and tvOS applications</li>
       <li>Acted as the product owner of the TV applications for a limited time - wrote tickets, decided priorities, managed sprints, checked the results of the external developers</li>
       <li>Challenging the design of the user interface and user experience, providing feedback and alternative solutions</li>
       <li>Creating complex flow charts and other documents for a better overview of how the applications should behave</li>
       <li>Creating numerous test cases for a more organized and complete manual testing process</li>
-      <li>Implementing a continuous integration system (using Fastlane and CircleCI) and writing automated unit tests</li>
-      <li>Working on the iOS and tvOS applications when needed</li>
+      <li>Implementing a continuous integration system and writing automated tests</li>
+      <li>Maintaining and developing new features for the iOS and tvOS applications whenever needed</li>
+      <li>Using the latest tools, technologies and practices of the trade</li>
       </ul>
   - company: mReady
     position: Android Developer
@@ -31,18 +32,17 @@ experience:
     summary: 
       <ul>
       <li>Developed and contributed to over 15 native Android applications of different types and complexities</li>
-      <li>Led the development of the Android applications for one of Switzerland's top Internet Television providers</li>
+      <li>Led the development of the Android applications for Wilmaa, a well known Swiss Internet TV provider</li>
       <li>Took part in all application development lifecycle phases, from idea to publishing and maintenance</li>
       <li>Worked closely with designers and with other developers, as well as with managers and stakeholders</li>
       <li>Analysed, defined and estimated tasks, working in an Agile environment with JIRA as a project management tool</li>
       <li>Supervised and mentored interns and other less-experienced colleagues by conducting code reviews, giving presentations and offering technical support</li>
       <li>Helped with the recruitment of new team members by examining resumes, contacting applicants, holding interviews, writing technical challenges and checking submissions</li>
       <li>Contributed to internal libraries; published some of them as open-source projects</li>
-      <li>Used the latest tools and technologies of the trade, such as Kotlin, RxJava, OkHttp, Retrofit, GSON, Glide, Picasso, Conductor, ExoPlayer, a MVVM architectural pattern, data binding and dependency injection</li>
       </ul>
 
 teaching:
-  - company: DevAcademy
+  - company: Digital Nation
     position: Lead Android Trainer
     date: October 2017 &mdash; May 2018
     location: Bucharest, Romania
