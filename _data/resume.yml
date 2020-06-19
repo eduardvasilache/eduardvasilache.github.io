@@ -8,22 +8,25 @@ links:
 summary: I am a curious developer with more than five years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
 
 experience:
-  - company: Entwicklungspark AG / Wilmaa AG
-    position: Lead Android Developer
-    date: August 2018 &mdash; Present
+  - company: ifolor
+    position: Senior Android Engineer
+    date: July 2020 &mdash; Present
     location: Zürich, Switzerland
     summary:
       <ul>
-      <li>Continuing the collaboration with Wilmaa, a well known Swiss Internet TV provider</li>
-      <li>Designing the architecture and developing the native applications for Android and Android TV devices</li>
-      <li>Guided and managed a team of external developers, who were developing the iOS and tvOS applications</li>
-      <li>Acted as the product owner of the TV applications for a limited time - wrote tickets, decided priorities, managed sprints, checked the results of the external developers</li>
-      <li>Challenging the design of the user interface and user experience, providing feedback and alternative solutions</li>
-      <li>Creating complex flow charts and other documents for a better overview of how the applications should behave</li>
-      <li>Creating numerous test cases for a more organized and complete manual testing process</li>
-      <li>Implementing a continuous integration system and writing automated tests</li>
-      <li>Maintaining and developing new features for the iOS and tvOS applications whenever needed</li>
-      <li>Using the latest tools, technologies and practices of the trade</li>
+      <li>TBD</li>
+      </ul>
+  - company: Wilmaa
+    position: Senior Android Engineer / Project Lead Mobile & TV
+    date: August 2018 &mdash; June 2020
+    location: Zürich, Switzerland
+    summary:
+      <ul>
+      <li>Continued the collaboration with Wilmaa, a Swiss Internet TV provider, now part of Sunrise</li>
+      <li>Led the development of the native mobile applications (Android, iOS) and native TV applications (Android TV, tvOS)</li>
+      <li>Guided and managed external developers</li>
+      <li>Challenged the design of the user interface and user experience, providing feedback and alternative solutions</li>
+      <li>Used the latest tools, technologies and practices of the trade</li>
       </ul>
   - company: mReady
     position: Android Developer
@@ -32,7 +35,7 @@ experience:
     summary: 
       <ul>
       <li>Developed and contributed to over 15 native Android applications of different types and complexities</li>
-      <li>Led the development of the Android applications for Wilmaa, a well known Swiss Internet TV provider</li>
+      <li>Led the development of the Android applications for Wilmaa, a Swiss Internet TV provider, now part of Sunriser</li>
       <li>Took part in all application development lifecycle phases, from idea to publishing and maintenance</li>
       <li>Worked closely with designers and with other developers, as well as with managers and stakeholders</li>
       <li>Analysed, defined and estimated tasks, working in an Agile environment with JIRA as a project management tool</li>
