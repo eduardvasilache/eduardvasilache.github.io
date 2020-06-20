@@ -8,15 +8,15 @@ links:
 summary: I am a curious developer with more than five years of experience in building and maintaining awesome Android applications. I seek to bring the best possible experience to the users using carefully crafted code, and I am always eager to master existing skills and to gain new ones.
 
 experience:
-  - company: ifolor
+  - company: ifolor Zürich AG
     position: Senior Android Engineer
     date: July 2020 &mdash; Present
     location: Zürich, Switzerland
     summary:
       <ul>
-      <li>TBD</li>
+      <li>To be added</li>
       </ul>
-  - company: Wilmaa
+  - company: Wilmaa AG
     position: Senior Android Engineer / Project Lead Mobile & TV
     date: August 2018 &mdash; June 2020
     location: Zürich, Switzerland
@@ -35,7 +35,7 @@ experience:
     summary: 
       <ul>
       <li>Developed and contributed to over 15 native Android applications of different types and complexities</li>
-      <li>Led the development of the Android applications for Wilmaa, a Swiss Internet TV provider, now part of Sunriser</li>
+      <li>Led the development of the Android applications for Wilmaa, a Swiss Internet TV provider, now part of Sunrise</li>
       <li>Took part in all application development lifecycle phases, from idea to publishing and maintenance</li>
       <li>Worked closely with designers and with other developers, as well as with managers and stakeholders</li>
       <li>Analysed, defined and estimated tasks, working in an Agile environment with JIRA as a project management tool</li>
